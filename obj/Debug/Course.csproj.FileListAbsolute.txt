@@ -1,0 +1,17 @@
+C:\Users\MiNotebook\source\repos\Course\Course\obj\Debug\Course.csprojAssemblyReference.cache
+C:\Users\MiNotebook\source\repos\Course\Course\obj\Debug\MainWindow.g.cs
+C:\Users\MiNotebook\source\repos\Course\Course\obj\Debug\WindowDrow.g.cs
+C:\Users\MiNotebook\source\repos\Course\Course\obj\Debug\App.g.cs
+C:\Users\MiNotebook\source\repos\Course\Course\obj\Debug\Course_MarkupCompile.cache
+C:\Users\MiNotebook\source\repos\Course\Course\obj\Debug\Course_MarkupCompile.lref
+C:\Users\MiNotebook\source\repos\Course\Course\bin\Debug\Course.exe.config
+C:\Users\MiNotebook\source\repos\Course\Course\bin\Debug\Course.exe
+C:\Users\MiNotebook\source\repos\Course\Course\bin\Debug\Course.pdb
+C:\Users\MiNotebook\source\repos\Course\Course\obj\Debug\MainWindow.baml
+C:\Users\MiNotebook\source\repos\Course\Course\obj\Debug\WindowDrow.baml
+C:\Users\MiNotebook\source\repos\Course\Course\obj\Debug\Course.g.resources
+C:\Users\MiNotebook\source\repos\Course\Course\obj\Debug\Course.Properties.Resources.resources
+C:\Users\MiNotebook\source\repos\Course\Course\obj\Debug\Course.csproj.GenerateResource.cache
+C:\Users\MiNotebook\source\repos\Course\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+C:\Users\MiNotebook\source\repos\Course\Course\obj\Debug\Course.exe
+C:\Users\MiNotebook\source\repos\Course\Course\obj\Debug\Course.pdb
